@@ -1,5 +1,9 @@
 # Code Refactoring Challenge
 
+## Task
+
+The challenge is an on-the-job ticket, which means you'll begin with starter code that you need to modify. This week's challenge involves a very important aspect of web development: **accessibility**
+
 ## Overview
 
 This repository contains the code for a web page that has been refactored to improve accessibility while maintaining the original visual design. The challenge involved making changes to meet specific accessibility standards and best practices.
@@ -18,8 +22,10 @@ The following accessibility improvements have been made:
 - Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
 - Application's CSS file is properly commented.
 
-## Review
+## URL links
 
+- https://github.com/JonRahman/Horiseon
+- https://jonrahman.github.io/Horiseon/
 
 
 
